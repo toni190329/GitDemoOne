@@ -9,5 +9,6 @@ public class T {
         System.out.println("hello3");
         System.out.println("word1");
         System.out.println("word3");
+        System.out.println("word2");
     }
 }
