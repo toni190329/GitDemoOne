@@ -11,5 +11,6 @@ public class T {
         System.out.println("word3");
         System.out.println("word2");
         System.out.println("branch");
+        System.out.println("branch2");
     }
 }
