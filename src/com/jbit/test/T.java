@@ -12,5 +12,6 @@ public class T {
         System.out.println("word2");
         System.out.println("branch");
         System.out.println("branch2");
+        System.out.println("新电脑第一次提交");
     }
 }
